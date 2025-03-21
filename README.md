@@ -15,8 +15,12 @@
 -  <b> Web Development Project</b>
    - [ Web Development Practice With Html,Css ,JavaScript ](https://annabellerestuarentsite.netlify.app)
  
--  <b> Web Development Project</b>
-   - [ Web Development Practice With Html,Css ,JavaScript ](https://annabellerestuarentsite.netlify.app)
+-  <b> Flutter Projects</b>
+   - [ Flutter Course Certificate ](https://drive.google.com/file/d/1OmBdpXCiHLZpoJyvwUYIa6nwmPWKuDlo/view?usp=sharing)
+   - [ Chat App ](https://drive.google.com/file/d/1yQk2Ovv3_flGJiWyMoceW7qNhqttzI1Y/view?usp=drive_link)
+   - [ Meal App ](https://drive.google.com/file/d/1eqzqv6gCgHwXz9lUVkchtCpc8a2RPTUc/view?usp=sharing)
+   - [ Shopping App ](https://drive.google.com/file/d/1UGEmiVDtE1qI_DZXU94gKKsdsRhMvUNL/view?usp=sharing)
+   - [ Fvrt-Places App ](https://drive.google.com/file/d/1eqzqv6gCgHwXz9lUVkchtCpc8a2RPTUc/view?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
