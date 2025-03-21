@@ -21,9 +21,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://https://www.youtube.com/@tastelab_by_laiba
-[instagram]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-[linkedin]:www.instagram.com/tastelab_by_laiba/profilecard/?igsh=MThhenl3cHE2MWJ5Yg==
+[youtube]:https://www.youtube.com/@tastelab_by_laiba
+[instagram]:https://www.instagram.com/tastelab_by_laiba/profilecard/?igsh=MThhenl3cHE2MWJ5Yg==
+[linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
