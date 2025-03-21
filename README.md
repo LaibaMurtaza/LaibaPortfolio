@@ -17,9 +17,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://www.youtube.com/@tastelab_by_laiba" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/tastelab_by_laiba/profilecard/?igsh=MThhenl3cHE2MWJ5Yg==" />][instagram]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
