@@ -1,4 +1,4 @@
-<h1>Hi, I'm Laiba! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.youtube.com/@tastelab_by_laiba">YouTuber</a></h1>
+<h1>Hi, I'm Laiba! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.youtube.com/@tastelab_by_laiba">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
