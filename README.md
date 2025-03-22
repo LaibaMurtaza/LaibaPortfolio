@@ -22,9 +22,9 @@
    - [ Shopping App ](https://drive.google.com/file/d/1UGEmiVDtE1qI_DZXU94gKKsdsRhMvUNL/view?usp=sharing)
    - [ Fvrt-Places App ](https://drive.google.com/file/d/1Ytzv3N_Csj68Pu8w6qCtv_mxX0IglZyF/view?usp=sharing)
  -  <b> Certificates</b>
-   - [ Metric Certificate ](https://drive.google.com/file/d/1vhJBrP_SKInUqloyHa112ROYmbevOmsi/view?usp=drive_link)
-   - [ Intermediate Certificate ](https://drive.google.com/file/d/15US78YNs51G0tGWgKPdtTOx_Wr1uEEaQ/view?usp=drive_link)
-   - [ Bachelor Certificate ](https://drive.google.com/file/d/1HSBo38TPQZ_KhA6MAaDqT21okB9mnCAB/view?usp=drive_link)
+    - [ Metric Certificate ](https://drive.google.com/file/d/1vhJBrP_SKInUqloyHa112ROYmbevOmsi/view?usp=drive_link)
+    - [ Intermediate Certificate ](https://drive.google.com/file/d/15US78YNs51G0tGWgKPdtTOx_Wr1uEEaQ/view?usp=drive_link)
+    - [ Bachelor Certificate ](https://drive.google.com/file/d/1HSBo38TPQZ_KhA6MAaDqT21okB9mnCAB/view?usp=drive_link)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
